@@ -1,0 +1,8 @@
+C:\Users\alshi\source\repos\Discrete Mathematics practical project\Discrete Mathematics practical project\bin\Debug\Discrete Mathematics practical project.exe.config
+C:\Users\alshi\source\repos\Discrete Mathematics practical project\Discrete Mathematics practical project\bin\Debug\Discrete Mathematics practical project.exe
+C:\Users\alshi\source\repos\Discrete Mathematics practical project\Discrete Mathematics practical project\bin\Debug\Discrete Mathematics practical project.pdb
+C:\Users\alshi\source\repos\Discrete Mathematics practical project\Discrete Mathematics practical project\obj\Debug\Discrete Mathematics practical project.csproj.AssemblyReference.cache
+C:\Users\alshi\source\repos\Discrete Mathematics practical project\Discrete Mathematics practical project\obj\Debug\Discrete Mathematics practical project.csproj.SuggestedBindingRedirects.cache
+C:\Users\alshi\source\repos\Discrete Mathematics practical project\Discrete Mathematics practical project\obj\Debug\Discrete Mathematics practical project.csproj.CoreCompileInputs.cache
+C:\Users\alshi\source\repos\Discrete Mathematics practical project\Discrete Mathematics practical project\obj\Debug\Discrete Mathematics practical project.exe
+C:\Users\alshi\source\repos\Discrete Mathematics practical project\Discrete Mathematics practical project\obj\Debug\Discrete Mathematics practical project.pdb
